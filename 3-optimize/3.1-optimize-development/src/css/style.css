@@ -1,0 +1,10 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: pink;
+}
+#app{
+    font-size: 60px;
+    color: green;
+    
+}
