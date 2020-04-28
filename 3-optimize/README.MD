@@ -26,6 +26,6 @@ webpack的优化需要区分开发环境和生产环境
 6. `PWA`渐进式网络开发应用程序(可离线访问)
 7. 多进程打包
 8. `externals`拒绝第三方库打包
-9. `dll`动态链接库
+9. `dll`动态链接库s
 
 [详细讲解](../3-optimize/3.2-optimize.production/README.MD)
